@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://lakshVibe:password1234@vibein.gjxjf.mongodb.net/vibeS?retryWrites=true&w=majority",
+    "JWTtoken": "onetwothree"
+}
